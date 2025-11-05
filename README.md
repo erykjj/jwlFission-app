@@ -1,6 +1,6 @@
 # <img src="docs/res/jwlFission.png" width=35> jwlFission App
 
-This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
+This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
 
 It allows:
 - Saving/sharing the subtitle file locally
@@ -27,10 +27,10 @@ By using this software you agree to abide by the terms of its [License](https://
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFission-app/issues).
 
-My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager), [**jwlFusion** (Android)](https://github.com/erykjj/jwlFusion-app) & [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion)
+My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager), [**jwlFusion** (Android)](https://github.com/erykjj/jwlFusion-app) & [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion)
 
 ____
 #### Footnotes:
 [^1]: Android 10+, arm64-v8a & x86_64
 
-[^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
+[^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
