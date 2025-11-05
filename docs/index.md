@@ -1,4 +1,4 @@
-# <img src="docs/res/jwlFission.png" width=35> jwlFission App
+# <img src="res/jwlFission.png" width=35> jwlFission App
 
 This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
 
@@ -11,7 +11,7 @@ It allows:
 <details>
 <summary>Preview…</summary><br/>
 
-![preview](docs/res/jwlFission.gif)
+![preview](res/jwlFission.gif)
 
 </details><br/>
 
