@@ -11,7 +11,7 @@ It allows:
 <details>
 <summary>Preview…</summary><br/>
 
-![preview](res/jwlFission.gif)
+<img src="res/jwlFission.gif">
 
 </details><br/>
 
