@@ -17,7 +17,7 @@ If the video contains subtitles, they will be shown and you can save/share these
 
 </details><br/>
 
-**Latest release**: [jwlFission_v0.7.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v0.7.0/jwlFission_v0.7.0.apk)
+**Latest release**: COMING SOON
 
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)
