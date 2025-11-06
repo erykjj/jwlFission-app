@@ -49,7 +49,7 @@ Subtitle range selected - shaded (start and end frames):
 
 <img src="res/clear.png" width=20> clear selection
 
-<img src="res/language.png" width=20> switch to another language; recently selected languages listed first; then "top" languages; then remaining available languages; if there was a selection on language switch, the approximate location will be selected in the new language
+<img src="res/language.png" width=20> switch to another language; recently selected languages listed first; then "top" languages; then remaining available languages; if there was a selection on language switch, the approximate location will be selected in the new language. **NOTE**: these are the languages in which the *video* is available; it doesn't mean that *subtitles* will be available; try switching to find out
 
 <img src="res/globe.png" width=20> tap: launch link to video in the *current* language (intercepted and played in *JW Library* if installed, else in browser); tap-and-hold (long-click): copy link to clipboard; in both cases, if there was a start frame, video will play starting at that location; if there was an end frame, video will play only the selected frames
 
