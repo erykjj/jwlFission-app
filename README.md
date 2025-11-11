@@ -58,6 +58,10 @@ Subtitle range selected - shaded (start and end frames):
 
 **Latest release**: COMING SOON
 
+### Note
+
+All of the videos in *JW Library* should work. As for the website, the share links should work for videos in the *LIBRARY > Videos* section. When using the search box on jw.org to find the video, some of the links in the results are structured differently and will not work.
+
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)
  ](https://erykjj.github.io/jwlFission-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlFission.android)
