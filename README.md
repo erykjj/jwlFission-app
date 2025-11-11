@@ -18,7 +18,7 @@ It allows:
 <details>
 <summary>How to use…</summary><br/>
 
-To begin with, share a video link from *JW Library* (or the [JW.ORG](https://jw.org) website) to *jwlFusion*:
+To begin with, share a video link from *JW Library* (or the [JW.ORG](https://jw.org) website) to *jwlFission*:
 
 <img src="docs/res/sharing.png" width=600>
 
