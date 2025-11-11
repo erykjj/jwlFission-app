@@ -17,7 +17,7 @@ It allows:
 
 ### How to use…
 
-To begin with, share a video link from *JW Library* (or the [JW.ORG](https://jw.org) website) to *jwlFusion*:
+To begin with, share a video link from *JW Library* (or the [JW.ORG](https://jw.org) website) to *jwlFission*:
 
 <img src="res/sharing.png" width=600>
 
