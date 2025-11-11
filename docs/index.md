@@ -1,6 +1,6 @@
 # <img src="res/jwlFission.png" width=35> jwlFission App
 
-This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
+This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org)[^3].
 
 It allows:
 - Saving/sharing the subtitle file locally
@@ -53,10 +53,6 @@ Subtitle range selected - shaded (start and end frames):
 
 <img src="res/globe.png" width=20> tap: launch link to video in the *current* language (intercepted and played in *JW Library* if installed, else in browser); tap-and-hold (long-click): copy link to clipboard; in both cases, if there was a start frame, video will play starting at that location; if there was an end frame, video will play only the selected frames
 
-### Note
-
-All of the videos in *JW Library* should work. As for the website, the share links should work for videos in the *LIBRARY > Videos* section. When using the search box on jw.org to find the video, some of the links in the results are structured differently and will not work.
-
 ____
 [![Static Badge](https://img.shields.io/badge/GitHub-jwlFission--app-white?style=plastic&logo=GitHub&color=black)](https://github.com/erykjj/jwlFission-app)
 
@@ -71,4 +67,6 @@ ____
 #### Footnotes:
 [^1]: Android 10+, arm64-v8a & x86_64
 
-[^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
+[^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+
+[^3]: All of the videos in *JW Library* should work. As for the website, the share links should work for videos in the *LIBRARY > Videos* section. When using the search box on jw.org to find the video, some of the links in the results are structured differently and will not work.
