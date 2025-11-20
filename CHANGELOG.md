@@ -11,7 +11,9 @@
 ### Removed
 
 ____
-## [v0.0.0] - 
+## [v1.0.0] - 2025-11-20
+
+- Initial production release
 
 ____
-[v0.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v0.0.0
+[v1.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.0.0
