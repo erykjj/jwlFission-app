@@ -4,6 +4,8 @@
 
 ### Added
 
+- Handle videos from jw.org search results
+
 ### Changed
 
 ### Fixed
