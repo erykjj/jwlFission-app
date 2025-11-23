@@ -4,7 +4,9 @@
 
 ### Added
 
-- Handle videos from jw.org search results
+- Improved sharing from website
+  - Handle videos from search results
+  - Handle "Featured" and "Latest" videos
 
 ### Changed
 
