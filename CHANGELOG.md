@@ -4,6 +4,8 @@
 
 ### Added
 
+- Handle URLs with locale instead of wtlocale (shared from browser)
+
 ### Changed
 
 ### Fixed
