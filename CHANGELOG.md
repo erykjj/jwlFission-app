@@ -8,7 +8,11 @@
 
 ### Changed
 
+- Spinning logo while loading
+
 ### Fixed
+
+- Added "S" (Spanish) to top languages
 
 ### Removed
 
