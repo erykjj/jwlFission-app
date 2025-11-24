@@ -1,6 +1,6 @@
 # <img src="docs/res/jwlFission.png" width=35> jwlFission App
 
-This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org)[^3].
+This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
 
 It allows:
 - Saving/sharing the subtitle file locally
@@ -73,5 +73,3 @@ ____
 [^1]: Android 10+, arm64-v8a & x86_64
 
 [^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
-
-[^3]: All of the videos in *JW Library* should work. As for the website, the share links should work for videos in the *LIBRARY > Videos* section. When using the search box on jw.org to find the video, some of the links in the results are structured differently and will not work.
