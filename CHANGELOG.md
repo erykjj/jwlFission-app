@@ -6,15 +6,20 @@
 
 ### Changed
 
+### Fixed
+
+### Removed
+
+____
+## [v1.3.0] - 2025-11-28
+### Changed
+
 - Fine-tuned timegap-based merging
 
 ### Fixed
 
 - Fixed italics handling
 
-### Removed
-
-____
 ## [v1.2.0] - 2025-11-23
 ### Added
 
@@ -40,6 +45,7 @@ ____
 - Initial production release
 
 ____
+[v1.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.3.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.0.0
