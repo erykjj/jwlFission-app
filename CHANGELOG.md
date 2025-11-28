@@ -6,7 +6,11 @@
 
 ### Changed
 
+- Fine-tuned timegap-based merging
+
 ### Fixed
+
+- Fixed italics handling
 
 ### Removed
 
