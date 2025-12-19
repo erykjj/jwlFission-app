@@ -56,7 +56,7 @@ Subtitle range selected - shaded (start and end frames):
 
 </details><br/>
 
-**Latest release**: [jwlFission_v1.3.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.3.0/jwlFission_v1.3.0.apk)
+**Latest release**: [jwlFission_v1.4.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.4.0/jwlFission_v1.4.0.apk)
 
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)
