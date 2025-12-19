@@ -11,6 +11,16 @@
 ### Removed
 
 ____
+## [v1.4.0] - 2025-12-19
+### Added
+
+- Added toast when link OK but no subs available
+
+### Changed
+
+- Improved website link handling
+- Updated to latest framework/libs
+
 ## [v1.3.0] - 2025-11-28
 ### Changed
 
@@ -45,6 +55,7 @@ ____
 - Initial production release
 
 ____
+[v1.4.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.4.0
 [v1.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.3.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.1.0
