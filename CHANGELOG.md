@@ -4,7 +4,12 @@
 
 ### Added
 
+- Added title and release date to top of subtitle display
+  - also to shared/saved file and link copied to clipboard
+
 ### Changed
+
+- Updated libs
 
 ### Fixed
 
