@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## [v1.5.0] - 2026-01-06
+### Added
+
 - Added title and release date to top of subtitle display
   - also to shared/saved file and link copied to clipboard
 
@@ -11,11 +21,6 @@
 
 - Updated libs
 
-### Fixed
-
-### Removed
-
-____
 ## [v1.4.0] - 2025-12-19
 ### Added
 
@@ -60,6 +65,7 @@ ____
 - Initial production release
 
 ____
+[v1.5.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.5.0
 [v1.4.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.4.0
 [v1.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.3.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
