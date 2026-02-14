@@ -53,6 +53,8 @@ Subtitle range selected - shaded (start and end frames):
 
 <img src="res/globe.png" width=20> tap: launch link to video in the *current* language (intercepted and played in *JW Library* if installed, else in browser); tap-and-hold (long-click): copy link to clipboard; in both cases, if there was a start frame, video will play starting at that location; if there was an end frame, video will play only the selected frames
 
+**Note**: Some "excerpt" videos don't include subtitles. In those cases, find the original/full video from which the excerpt is taken.
+
 ____
 [![Static Badge](https://img.shields.io/badge/GitHub-jwlFission--app-white?style=plastic&logo=GitHub&color=black)](https://github.com/erykjj/jwlFission-app)
 
