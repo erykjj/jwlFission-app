@@ -8,6 +8,8 @@ It allows:
 - Switching to another available language
 - Generating a link to a portion of the video
 
+**Latest release**: [jwlFission_v1.5.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.5.0/jwlFission_v1.5.0.apk)
+
 <details>
 <summary>Preview…</summary><br/>
 
@@ -56,7 +58,7 @@ Subtitle range selected - shaded (start and end frames):
 
 </details><br/>
 
-**Latest release**: [jwlFission_v1.5.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.5.0/jwlFission_v1.5.0.apk)
+**Note**: Some "excerpt" videos don't include subtitles. In those cases, find the original/full video from which the excerpt is taken.
 
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)
