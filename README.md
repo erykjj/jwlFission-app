@@ -61,7 +61,7 @@ Subtitle range selected - shaded (start and end frames):
 **Note**: Some "excerpt" videos don't include subtitles. In those cases, find the original/full video from which the excerpt is taken.
 
 ____
-[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/jwlFission-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlFission.android)
+[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFission-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFission%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/jwlFission-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlfission.android)
 
 By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/jwlFission-app#License-1-ov-file).
 
