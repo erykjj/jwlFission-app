@@ -8,6 +8,8 @@
 
 ### Fixed
 
+- Fixed splashscreen color
+
 ### Removed
 
 ____
