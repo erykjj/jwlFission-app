@@ -4,10 +4,13 @@
 
 ### Added
 
+- Allow copying whole transcript to clipboard
+
 ### Changed
 
 - Restore timestamp toggle state between sessions
 - Use _ for italics (instead of <em> tags)
+- Share will send *text* instead of *file*
 
 ### Fixed
 
