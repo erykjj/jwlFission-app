@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Restore timestamp toggle state between sessions
+
 ### Fixed
 
 - Fixed splashscreen color
