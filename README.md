@@ -3,8 +3,8 @@
 This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
 
 It allows:
-- Saving/sharing the subtitle file locally
-- Copying a portion of the text to clipboard
+- Saving the subtitle file locally
+- Copying the whole or a portion of the text to clipboard (restructured or with time-stamps)
 - Switching to another available language
 - Generating a link to a portion of the video
 
