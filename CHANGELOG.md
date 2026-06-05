@@ -7,6 +7,7 @@
 ### Changed
 
 - Restore timestamp toggle state between sessions
+- Use _ for italics (instead of <em> tags)
 
 ### Fixed
 
