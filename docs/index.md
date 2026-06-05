@@ -29,7 +29,7 @@ If the video contains subtitles, you should see the text along with a toolbar at
 
 <img src="res/time_toggle.png" width=20> toggle timestamps off/on
 
-<img src="res/share.png" width=20> tap: share subtitle file (to *Google Drive*, for example); tap-and-hold (long-click): save subtitle file to local file system; in both cases, with or without timestamps (depending on toggle state). If timestamps are toggled off, you will have a simple transcript. Keep in mind that it's impossible for this (simple) app to reformat text from so many different languages, so this function is limited
+<img src="res/share.png" width=20> tap: share subtitle text (to a messaging app, for example); tap-and-hold (long-click): save subtitle file to local file system; in both cases, with or without timestamps (depending on toggle state). If timestamps are toggled off, you will have a restructured transcript (of the whole text or selection range). Keep in mind that it's impossible for this (simple) app to do semantic text reformatting from so many different languages, so this function is limited
 
 <img src="res/previous.png" width=20> <img src="res/next.png" width=20> after search is performed using the search box, jump to previous or next search result
 
