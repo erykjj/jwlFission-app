@@ -11,7 +11,7 @@
 ### Removed
 
 ____
-## [v1.7.0] - 2026-06-05
+## [v1.8.0] - 2026-06-05
 ### Added
 
 - Allow copying whole transcript to clipboard
@@ -88,7 +88,7 @@ ____
 - Initial production release
 
 ____
-[v1.7.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.7.0
+[v1.8.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.8.0
 [v1.6.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.6.0
 [v1.5.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.5.0
 [v1.4.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.4.0
