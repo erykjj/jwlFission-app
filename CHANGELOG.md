@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v1.9.0] - 2026-06-08
+### Fixed
+
+- Fixed whole-line italics in some languages (like French)
+
 ## [v1.8.0] - 2026-06-05
 ### Added
 
@@ -88,6 +93,7 @@ ____
 - Initial production release
 
 ____
+[v1.9.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.9.0
 [v1.8.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.8.0
 [v1.6.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.6.0
 [v1.5.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.5.0
