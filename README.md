@@ -8,7 +8,7 @@ It allows:
 - Switching to another available language
 - Generating a link to a portion of the video
 
-**Latest release**: [jwlFission_v1.10.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.10.0/jwlFission_v1.10.0.apk)
+**Latest release**: [jwlFission_v1.12.0.apk](https://github.com/erykjj/jwlFission-app/releases/download/v1.12.0/jwlFission_v1.12.0.apk)
 
 <details>
 <summary>Preview…</summary><br/>
