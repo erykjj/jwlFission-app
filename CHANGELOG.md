@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v1.12.0] - 2026-06-24
+### Changed
+
+- Updated libs
+- Edge-to-edge fixes
+
 ## [v1.10.0] - 2026-06-08
 ### Fixed
 
@@ -93,6 +99,7 @@ ____
 - Initial production release
 
 ____
+[v1.12.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.12.0
 [v1.10.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.10.0
 [v1.8.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.8.0
 [v1.6.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.6.0
