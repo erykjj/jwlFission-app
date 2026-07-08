@@ -4,6 +4,10 @@
 
 ### Added
 
+- Added subtitle (timestamp) and transcript (restructured text) mode toggle
+  - selections and searching work in both modes
+  - both modes are synchronized
+
 ### Changed
 
 ### Fixed
