@@ -1,8 +1,9 @@
 # <img src="docs/res/jwlFission.png" width=35> jwlFission App
 
-This is an **Android app**[^1] to view the subtitle (transcript) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
+This is an **Android app**[^1] to view the VTT (subtitle) files associated with videos in *JW Library*[^2] and on [JW.ORG](https://jw.org).
 
 It allows:
+- Switching between subtitle view (with timestamps) and transcript view
 - Saving the subtitle file locally
 - Copying the whole or a portion of the text to clipboard (restructured or with time-stamps)
 - Switching to another available language
@@ -30,7 +31,7 @@ If the video contains subtitles, you should see the text along with a toolbar at
 
 <img src="docs/res/decrease.png" width=20> <img src="docs/res/increase.png" width=20> decrease and increase the text font size
 
-<img src="docs/res/time_toggle.png" width=20> toggle timestamps off/on
+<img src="docs/res/time_toggle.png" width=20> toggle between subtitle view (with timestamps) and transcript view
 
 <img src="docs/res/share.png" width=20> tap: share subtitle text (to a messaging app, for example); tap-and-hold (long-click): save subtitle file to local file system; in both cases, with or without timestamps (depending on toggle state). If timestamps are toggled off, you will have a restructured transcript (of the whole text or selection range). Keep in mind that it's impossible for this (simple) app to do semantic text reformatting from so many different languages, so this function is limited
 
