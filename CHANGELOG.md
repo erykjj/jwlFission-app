@@ -4,10 +4,6 @@
 
 ### Added
 
-- Added subtitle (timestamp) and transcript (restructured text) mode toggle
-  - selections and searching work in both modes
-  - both modes are synchronized
-
 ### Changed
 
 ### Fixed
@@ -15,6 +11,13 @@
 ### Removed
 
 ____
+## [v2.0.2] - 2026-07-09
+### Added
+
+- Added subtitle (timestamp) and transcript (restructured text) mode toggle
+  - selections and searching work in both modes
+  - both modes are synchronized
+
 ## [v1.14.0] - 2026-06-25
 ### Changed
 
@@ -108,6 +111,7 @@ ____
 - Initial production release
 
 ____
+[v2.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.2
 [v1.14.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.14.0
 [v1.12.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.12.0
 [v1.10.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.10.0
