@@ -11,6 +11,13 @@
 ### Removed
 
 ____
+## [v2.1.0] - 2026-07-10
+### Fixed
+
+- Fixed italic markers in copy/export
+  - in subtitle copy/export: italic tags <i> are included
+  - in transcript copy/export: italic tags are stripped away (plain text only)
+
 ## [v2.0.2] - 2026-07-09
 ### Added
 
@@ -111,6 +118,7 @@ ____
 - Initial production release
 
 ____
+[v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.2
 [v1.14.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.14.0
 [v1.12.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.12.0
