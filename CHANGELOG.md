@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Keep position on language change
+
 ### Fixed
 
 ### Removed
