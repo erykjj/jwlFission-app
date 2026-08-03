@@ -25,6 +25,13 @@ To begin with, share a video link from *JW Library* (or the [JW.ORG](https://jw.
 
 <img src="docs/res/sharing.png" width=600>
 
+You can also copy the share link to the clipboard and launch *jwlFission* directly:
+
+<img src="docs/res/clip.png" width=20> if the clipboard contains a valid link, you can launch from here
+
+<img src="docs/res/noclip.png" width=20> if there is no valid link in the clipboard
+
+
 If the video contains subtitles, you should see the text along with a toolbar at the top:
 
 <img src="docs/res/toolbar.png" width=600>
