@@ -8,7 +8,7 @@
 
 ### Changed
 
-- Handle position sync on mode/language change
+- Handle position sync on display mode or language change
 - Various other improvements
 
 ### Fixed
