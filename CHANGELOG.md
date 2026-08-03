@@ -4,9 +4,12 @@
 
 ### Added
 
+- Add button to allow launching from video links copied to clipboard
+
 ### Changed
 
 - Handle position sync on mode/language change
+- Various other improvements
 
 ### Fixed
 
