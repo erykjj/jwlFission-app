@@ -6,7 +6,7 @@
 
 ### Changed
 
-- Keep position on language change
+- Handle position sync on mode/language change
 
 ### Fixed
 
