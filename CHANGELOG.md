@@ -12,7 +12,7 @@
 ### Removed
 
 ____
-## [v3.0.0] - 2026-08-10
+## [v3.0.1] - 2026-08-10
 ### Added
 
 - Added button to allow launching from video links copied to clipboard
@@ -129,7 +129,7 @@ ____
 - Initial production release
 
 ____
-[v3.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.0
+[v3.0.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.1
 [v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.2
 [v1.14.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.14.0
