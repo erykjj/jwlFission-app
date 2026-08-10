@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+
+### Fixed
+
+### Removed
+
+____
+## [v3.0.0] - 2026-08-10
+
 - Add button to allow launching from video links copied to clipboard
 
 ### Changed
@@ -11,11 +21,6 @@
 - Handle position sync on display mode or language change
 - Various other improvements
 
-### Fixed
-
-### Removed
-
-____
 ## [v2.1.0] - 2026-07-10
 ### Fixed
 
@@ -123,6 +128,7 @@ ____
 - Initial production release
 
 ____
+[v3.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.0
 [v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.2
 [v1.14.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.14.0
