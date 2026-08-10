@@ -13,8 +13,9 @@
 
 ____
 ## [v3.0.0] - 2026-08-10
+### Added
 
-- Add button to allow launching from video links copied to clipboard
+- Added button to allow launching from video links copied to clipboard
 
 ### Changed
 
