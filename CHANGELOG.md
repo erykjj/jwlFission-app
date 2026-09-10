@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Fade out background logo
+
 ### Fixed
 
 ### Removed
