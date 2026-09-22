@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v3.2.0] - 2026-09-22
+### Changed
+
+- Updated libs
+- Small tweaks and ajustments
+
 ## [v3.1.0] - 2026-09-10
 ### Changed
 
@@ -138,6 +144,7 @@ ____
 - Initial production release
 
 ____
+[v3.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.2.0
 [v3.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.1.0
 [v3.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.2
 [v3.0.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.1
