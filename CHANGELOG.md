@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v3.2.1] - 2026-09-24
+### Fixed
+
+- Fixed bars on Android 14 and below
+
 ## [v3.2.0] - 2026-09-22
 ### Changed
 
@@ -144,6 +149,7 @@ ____
 - Initial production release
 
 ____
+[v3.2.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.2.1
 [v3.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.2.0
 [v3.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.1.0
 [v3.0.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.2
