@@ -6,13 +6,16 @@
 
 ### Changed
 
-- Handle dash as new paragraph indicator for transcript rendering
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v3.3.0] - 2026-10-05
+### Changed
+
+- Handle dash as new paragraph indicator for transcript rendering
+
 ## [v3.2.1] - 2026-09-24
 ### Fixed
 
@@ -151,6 +154,7 @@ ____
 - Initial production release
 
 ____
+[v3.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.3.0
 [v3.2.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.2.1
 [v3.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.2.0
 [v3.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.1.0
