@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Handle dash as new paragraph indicator for transcript rendering
+
 ### Fixed
 
 ### Removed
